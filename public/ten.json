@@ -1,0 +1,294 @@
+{
+  "user": [
+    {
+      "userName": "NicolasRuiz",
+      "profilePicture": "https://i.ibb.co/VBCHqbX/3.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Delicious Homemade Pasta",
+          "date": "1 day ago",
+          "category": "Home Appliance",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/g9ZBNkv/pasta.jpg",
+          "postDrescription": "Just made my own homemade pasta from scratch for the first time! Used a traditional recipe with flour and eggs. The result was amazing. Can't believe I made it myself!",
+
+          "reaction": true,
+          "hashTag": ["#delicious", "#lovemyfood"]
+        }
+      ]
+    },
+    {
+      "userName": "Disha Murke",
+      "profilePicture": "https://i.ibb.co/kctB8jL/disha.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Personal Best in 5K Run!",
+          "date": "1 day ago",
+          "category": "Sports",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/09XFP4C/run.jpg",
+          "postDrescription": "Set a new personal record in my 5K run today! Finished in 22 minutes, breaking my previous record by 1 minute. Hard work and consistent training pay off!,",
+
+          "reaction": true,
+          "hashTag": ["#sports", "#loverun"]
+        }
+      ]
+    },
+    {
+      "userName": "Hemanth Kumar",
+      "profilePicture": "https://i.ibb.co/kB3PtMP/hemanth.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Captured a Scenic Landscape",
+          "date": "1 day ago",
+          "category": "Drawing",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/9Y9VPQ3/drawing.jpg",
+          "postDrescription": "Spent the afternoon drawing a beautiful landscape. Added vibrant colors and focused on capturing the details. So proud of how it turned out!",
+
+          "reaction": true,
+          "hashTag": ["#drawing", "#lovedrawing"]
+        }
+      ]
+    },
+    {
+      "userName": "Md Touhidul Islam",
+      "profilePicture": "https://i.ibb.co/KssZZMV/405047049-2461069270731733-7398187336712067502-n.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "completed half marathon",
+          "date": "1 day ago",
+          "category": "running",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/vDCFs28/image.jpg",
+          "postDrescription": "🏃‍♂️ Just crossed the finish line of my first half marathon! 🎉🥳🎉 What a fantastic way to wrap up the year with such a significant accomplishment. The journey to this moment must have been filled with challenges, dedication, and hard work, but I did it! 🏅",
+
+          "reaction": true,
+          "hashTag": ["#HalfMarathonFinisher", "#AchievementUnlocked"]
+        }
+      ]
+    },
+    {
+      "userName": "Prianka Joshi",
+      "profilePicture": "https://i.ibb.co/G2thGLK/Screenshot-2024-01-09-at-03-52-46.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Visited most lively city in the planet",
+          "date": "1 day ago",
+          "category": "traveling",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/G2thGLK/Screenshot-2024-01-09-at-03-52-46.png",
+          "postDrescription": "🎉✨ Celebrated the arrival of the New Year at the iconic Eiffel Tower! 🗼🥂 Grateful for the opportunity to start the year in such a magical place. The dazzling lights, the energetic atmosphere, and the company of amazing people made it an unforgettable experience. Here's to new beginnings, adventures, and the journey ahead! 🌟 Wishing everyone a year filled with joy, growth, and exciting discoveries. Cheers to 2023! 🎇🍾",
+
+          "reaction": true,
+          "hashTag": ["#NewYearEve", "#EiffelTowerCelebration"]
+        }
+      ]
+    },
+    {
+      "userName": "Soul Hudson",
+      "profilePicture": "https://i.ibb.co/s10QtXs/josue.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Launched My First Mobile App",
+          "date": "1 day ago",
+          "category": "programming",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/gF3R0bL/software.png",
+          "postDrescription": "After months of coding and testing, I finally launched my first mobile app! It's a productivity tool to help users stay organized. Excited to see it in action!",
+
+          "reaction": true,
+          "hashTag": ["#programming", "#loveprogramming"]
+        }
+      ]
+    },
+    {
+      "userName": "Mark Zuckerberg",
+      "profilePicture": "https://i.ibb.co/jbZ7F4M/mark.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Started raising cattle",
+          "date": "1 day ago",
+          "category": "Farming",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/DtfsG19/markpost.jpg",
+          "postDrescription": "Started raising cattle at Ko'olau Ranch on Kauai, and my goal is to create some of the highest quality beef in the world. The cattle are wagyu and angus, and they'll grow up eating macadamia meal and drinking beer that we grow and produce here on the ranch. We want the whole process to be local and vertically integrated. Each cow eats 5,000-10,000 pounds of food each year, so that's a lot of acres of macadamia trees. My daughters help plant the mac trees and take care of our different animals. We're still early in the journey and it's fun improving on it every season. Of all my projects, this is the most delicious.",
+
+          "reaction": true,
+          "hashTag": ["#farming", "#lovefarming"]
+        }
+      ]
+    },
+
+    {
+      "userName": "Hendrik Heuer",
+      "profilePicture": "https://i.ibb.co/gw3MHby/hendrickh.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I'll be co-leading the subproject 'We The (Social) Media: Social Media by and for Social Movements' with Andreas Breiter, Sebastian Haunss, and Stephanie Geise",
+          "date": "2 month ago",
+          "category": "Research",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/r5Zhfkn/hendrikpost1.png",
+          "postDrescription": "I'll be co-leading the subproject 'We The (Social) Media: Social Media by and for Social Movements' with Andreas Breiter, Sebastian Haunss, and Stephanie GeiseThe University of Bremen, in close collaboration with the U Bremen Research Alliance and other partners, is establishing a data competence center for the entire region. The Bundesministerium für Bildung und Forschung (Federal Ministry of Education and Research) is supporting the establishment of the center with over 3.5 million euros.",
+
+          "reaction": true,
+          "hashTag": ["#unibremen", "#ai"]
+        },
+        {
+          "userName": "Gabriela Molina León",
+          "profilePicture": "https://i.ibb.co/rxPRt6h/gabiprofile.jpg",
+          "followStatus": "Unfollow",
+          "posts": [
+            {
+              "title": "I just started my research stay at the Aviz research group",
+              "date": "8 month ago",
+              "category": "Research",
+              "readTime": "1 min",
+              "postImage": "https://i.ibb.co/zNNrLNZ/gabipost.png",
+              "postDrescription": "A bit late but I'm happy to report that I just started my research stay at the Aviz research group at Inria with the support of the DAAD German Academic Exchange Service. I will be working on multi-user interaction with wall displays, and look forward to the collaborations and life around hashtag#Paris in the next months ",
+
+              "reaction": true,
+              "hashTag": ["#phdlife", "#dataviz"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "userName": "Gabriela Molina León",
+      "profilePicture": "https://i.ibb.co/rxPRt6h/gabiprofile.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I just started my research stay at the Aviz research group",
+          "date": "8 month ago",
+          "category": "Research",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/zNNrLNZ/gabipost.png",
+          "postDrescription": "A bit late but I'm happy to report that I just started my research stay at the Aviz research group at Inria with the support of the DAAD German Academic Exchange Service. I will be working on multi-user interaction with wall displays, and look forward to the collaborations and life around hashtag#Paris in the next months ",
+
+          "reaction": true,
+          "hashTag": ["#phdlife", "#dataviz"]
+        }
+      ]
+    },
+    {
+      "userName": "Priyan Vaithilingam",
+      "profilePicture": "https://i.ibb.co/mq6dTdT/priyanprofile.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "My paper titled 'Towards More Effective AI-Assisted Programming' has been published at ICSE SEIP 2023",
+          "date": "4 month ago",
+          "category": "Research",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/CWsS8JQ/priyanpost.png",
+          "postDrescription": "Exciting news! 🎉 My paper titled 'Towards More Effective AI-Assisted Programming' has been published at ICSE SEIP 2023. Grateful for the opportunity to contribute to the field of AI and programming. Huge thanks to everyone who supported me on this journey!",
+
+          "reaction": true,
+          "hashTag": ["#phdlife", "#dataviz"]
+        }
+      ]
+    },
+    {
+      "userName": "Rabiul Auwal",
+      "profilePicture": "https://i.ibb.co/5kjyc5F/rabiulprofile.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have passed my B1 exam of German language",
+          "date": "12 month ago",
+          "category": "Language",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/YNqH6S3/robiul-post.jpg",
+          "postDrescription": "I have passed my B1 exam of German language with a very good result. 7 months of hard work paid off finally. Alhamdulillah 😍 Time to learn B2.",
+
+          "reaction": true,
+          "hashTag": ["#Germanb1", "#languageLearning"]
+        }
+      ]
+    },
+
+    {
+      "userName": "M. Shawon (Ultrarunner)",
+      "profilePicture": "https://i.ibb.co/Tr6NbP2/shawon-profile.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "finished my first ever ultra marathon (51 km) ",
+          "date": "1 day ago",
+          "category": "running",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/1zCwhgj/shawon.jpg",
+          "postDrescription": "Alhamdulillah 🙂 Many many  thanks to my ALMIGHTY ❤ I have finished my first ever ultra marathon (51 km) strongly without any muscle fatigue 🙂 And now I am good in physically 🙂",
+
+          "reaction": true,
+          "hashTag": ["#fullmarathon", "#running"]
+        }
+      ]
+    },
+    {
+      "userName": "Jeske van Eeten",
+      "profilePicture": "https://i.ibb.co/GJbL5JN/jeske-profile.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have just started my own business in selling charcuterie boards",
+          "date": "1 day ago",
+          "category": "StartUp",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/s3J6tgD/jeska-post.jpg",
+          "postDrescription": "Hi! I'm from the Netherlands and have just started my own business in selling charcuterie boards! Her's one of my boards. Looking forward to get a lot of inspiration!!",
+
+          "reaction": true,
+          "hashTag": ["#startup", "#startstartup"]
+        }
+      ]
+    },
+    {
+      "userName": "Akib Faruk",
+      "profilePicture": "https://i.ibb.co/S5dgHpw/akib-profile.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Champion of Bremen Prenier League(BPL)",
+          "date": "2 day ago",
+          "category": "Sports",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/683CkPc/akib-post.jpg",
+          "postDrescription": "'Back-to-Back champion' of Bremen Premier League (BPL) - (2023-2022) Luisental Rocks -(2023) Bremen Vikings - (2022)",
+
+          "reaction": true,
+          "hashTag": ["#cricket", "#sports"]
+        }
+      ]
+    },
+    {
+      "userName": "Gamal Akbar",
+      "profilePicture": "https://i.ibb.co/bNZF4Xs/gamal-profile.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have received a LeetCode t-shirt as a gift from the LeetCode website",
+          "date": "2 day ago",
+          "category": "Programming",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/KKSZsgx/gamal-post.jpg",
+          "postDrescription": "I am thrilled to share that I have received a LeetCode t-shirt as a gift from the LeetCode website! This t-shirt is not just a piece of clothing, but a symbol of my work and passion for coding. Over the past year, I have been solving problems on LeetCode every day, collecting leetcoins along the way. LeetCode offers a variety of coding challenges that cover different topics and languages. It wasn't easy to maintain this habit, especially when I faced some difficult or tricky problems. But I did not give up. I kept trying, learning, and improving. Solving these problems helped me improve my skills, learn new concepts, and prepare for interviews.",
+
+          "reaction": true,
+          "hashTag": ["#programming", "#leetcode"]
+        }
+      ]
+    }
+  ]
+}
