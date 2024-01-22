@@ -48,6 +48,7 @@ const FacebookPost = ({ post }) => {
           <p className="text-gray-800 leading-relaxed font-serif text-sm m-6">
             {posts[0].postDrescription}
           </p>
+          <p>{posts[0].hashTags}</p>
         </div>
 
         <div className="flex items-center justify-between px-4 py-2 border-t border-gray-200">

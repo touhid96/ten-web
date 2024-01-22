@@ -1,16 +1,120 @@
 {
   "user": [
     {
-      "userName": "NicolasRuiz",
-      "profilePicture": "https://i.ibb.co/VBCHqbX/3.jpg",
+      "userName": "Asim Damodar",
+      "profilePicture": "https://i.ibb.co/98xtP4G/6.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Completed Coding Bootcamp",
+          "date": "9 days ago",
+          "category": "Programming",
+          "readTime": "6 min",
+          "postImage": "https://i.ibb.co/1bSkfJz/PHOTO-2024-01-19-11-56-04.jpg",
+          "postDrescription": "💻 Successfully completed a coding bootcamp! From learning the basics to building complex applications, this coding journey has been transformative. Grateful for the skills acquired and the supportive coding community. 🚀👩‍💻 ",
+          "reaction": true,
+          "hashTags": ["#CodingJourney", "#BootcampGraduate"]
+        }
+      ]
+    },
+    {
+      "userName": "Surinder Pankraz",
+      "profilePicture": "https://i.ibb.co/DCFDTsW/download-8.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Embarking on a New Journey: Launching 'EcoTech Innovations'",
+          "date": "1 day ago",
+          "category": "Startup",
+          "readTime": "4 min",
+          "postImage": "https://i.ibb.co/0jHt2qQ/Screenshot-2024-01-22-at-09-34-39.png",
+          "postDrescription": "🚀 Exciting News! Today marks the beginning of a new chapter as I officially launch my startup, 'EcoTech Innovations.' The journey from ideation to execution has been an exhilarating adventure, and I'm thrilled to share the vision behind this endeavor.",
+
+          "reaction": true,
+          "hashTags": ["#EcoTechInnovations", "#SustainableStartup"]
+        }
+      ]
+    },
+    {
+      "userName": "Nihal Rachel",
+      "profilePicture": "https://i.ibb.co/Y3VmwNk/download1.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Completed Half Marathon",
+          "date": "1 day ago",
+          "category": "Running",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/x6HgZmx/PHOTO-2024-01-19-11-37-39.jpg",
+          "postDrescription": "🏃‍♂️ Just crossed the finish line of my first half marathon! 🎉🥳🎉 What a fantastic way to wrap up the year with such a significant accomplishment. The journey to this moment must have been filled with challenges, dedication, and hard work, but I did it!",
+          "reaction": true,
+          "hashTags": ["#HalfMarathonFinisher", "#AchievementUnlocked"]
+        }
+      ]
+    },
+    {
+      "userName": "Marvin Eckhart",
+      "profilePicture": "https://i.ibb.co/9ygBgnM/download2.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Transformative Journey - From Couch to 5K Finisher",
+          "date": "3 days ago",
+          "category": "Fitness",
+          "readTime": "8 min",
+          "postImage": "https://i.ibb.co/YXfyB7H/Screenshot-2024-01-22-at-08-45-52.png",
+          "postDrescription": "🏃‍♀️ Embarking on a transformative journey from a sedentary lifestyle to becoming a 5K finisher has been nothing short of extraordinary. It all began with a simple desire for change, a longing for better health, and a vision of crossing that finish line. Today, I share with you not just the achievement of completing a 5K run but the profound story behind the sweat, determination, and the evolution of self. This journey was more than just physical; it was a mental and emotional expedition, a testament to the strength we discover within ourselves when we decide to take that first step.     The initial days were daunting; each run felt like a struggle against time and personal doubts. However, the consistent rhythm of putting on those running shoes became a meditation, a ritual of self-discovery. It was not about the distance covered but the dedication to show up, to face the challenges head-on, and to redefine personal limits. The journey was filled with early mornings, sore muscles, and the gradual realization that progress is a slow and steady process. What kept me going were the small victories  the first non-stop mile, the improvement in endurance, and the sense of accomplishment after completing each training session. The support from the running community, both online and in local running groups, became a source of motivation. Sharing the highs and lows with fellow runners created a sense of camaraderie that fueled the journey forward. On the day of the 5K run, the culmination of months of effort was an emotional experience. The cheers of the crowd, the pounding of my heart, and the sheer joy of crossing the finish line created a memory that will forever be etched in my heart. It was not just a race; it was a celebration of resilience, a reminder that every step taken was a step towards a healthier and more empowered version of myself.As I reflect on this journey, I want to extend a heartfelt message to anyone considering a similar path: Your goals are achievable, your dreams are valid, and your journey is unique. Embrace the process, celebrate the progress, and remember that transformation is a beautiful evolution. Today, I stand not just as a 5K finisher but as someone who discovered the power within to redefine what is possible. Here's to the next chapter, new challenges, and the continual pursuit of a life well-lived. 🌟🏅 .",
+
+          "reaction": true,
+          "hashTags": ["#FitnessJourney", "#5KFinisher", "#TransformationStory"]
+        }
+      ]
+    },
+    {
+      "userName": "Liorit Hiltrude",
+      "profilePicture": "https://i.ibb.co/3hgSQ9V/download3.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Published First Book",
+          "date": "5 days ago",
+          "category": "Writing",
+          "readTime": "5 min",
+          "postImage": "https://i.ibb.co/9pb0KsR/Screenshot-2024-01-22-at-09-02-55.png",
+          "postDrescription": "📚 Thrilled to share that I've published my first book! This journey of creativity, perseverance, and storytelling has been incredibly rewarding. Here's to many more chapters and adventures in the world of writing. 🖋️📖 #AuthorLife #BookPublished",
+          "reaction": true,
+          "hashTags": ["#AuthorLife", "#BookPublished"]
+        }
+      ]
+    },
+    {
+      "userName": "Diksha Deepika",
+      "profilePicture": "https://i.ibb.co/hH4yZH1/4.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Completed a Mindful Meditation Challenge",
+          "date": "4 days ago",
+          "category": "Wellness",
+          "readTime": "5 min",
+          "postImage": "https://i.ibb.co/djRy1k7/PHOTO-2024-01-19-11-36-55.jpg",
+          "postDrescription": "🧘‍♀️ Successfully completed a 30-day mindful meditation challenge! The journey inward has been transformative, bringing peace, clarity, and a profound sense of well-being. In the hustle of daily life, taking a moment to breathe and be present is a true gift to oneself. This achievement is a reminder that a calm mind is a resilient mind. Join me in the pursuit of inner peace and the joy of mindfulness. 🌿🌺 #MindfulMeditation #InnerPeace #WellnessJourney",
+          "reaction": false,
+          "hashTags": ["#MindfulMeditation", "#InnerPeace", "#WellnessJourney"]
+        }
+      ]
+    },
+    {
+      "userName": "Mohandas Hashim",
+      "profilePicture": "https://i.ibb.co/njXYwk2/Screenshot-2024-01-22-at-09-07-16.png",
       "followStatus": "Unfollow",
       "posts": [
         {
           "title": "Delicious Homemade Pasta",
           "date": "1 day ago",
-          "category": "Home Appliance",
+          "category": "Food",
           "readTime": "3 min",
-          "postImage": "https://i.ibb.co/g9ZBNkv/pasta.jpg",
+          "postImage": "https://i.ibb.co/njXYwk2/Screenshot-2024-01-22-at-09-07-16.png",
           "postDrescription": "Just made my own homemade pasta from scratch for the first time! Used a traditional recipe with flour and eggs. The result was amazing. Can't believe I made it myself!",
 
           "reaction": true,
@@ -19,80 +123,43 @@
       ]
     },
     {
-      "userName": "Disha Murke",
-      "profilePicture": "https://i.ibb.co/kctB8jL/disha.png",
+      "userName": "Annegret Lilo",
+      "profilePicture": "https://i.ibb.co/T14B1C2/download.jpg",
       "followStatus": "Unfollow",
       "posts": [
         {
-          "title": "Personal Best in 5K Run!",
-          "date": "1 day ago",
-          "category": "Sports",
-          "readTime": "3 min",
-          "postImage": "https://i.ibb.co/09XFP4C/run.jpg",
-          "postDrescription": "Set a new personal record in my 5K run today! Finished in 22 minutes, breaking my previous record by 1 minute. Hard work and consistent training pay off!,",
-
-          "reaction": true,
-          "hashTag": ["#sports", "#loverun"]
+          "title": "Mastered a New Language",
+          "date": "3 days ago",
+          "category": "Language Learning",
+          "readTime": "4 min",
+          "postImage": "https://i.ibb.co/vBY7RMd/Screenshot-2024-01-22-at-09-12-24.png",
+          "postDrescription": "🗣️ Excited to announce that I've mastered a new language! Learning a language is not just about words; it's about embracing a new culture and expanding horizons. Grateful for the journey of acquiring this skill. 🌍✨",
+          "reaction": false,
+          "hashTags": ["#LanguageMaster", "#MultilingualJourney"]
         }
       ]
     },
     {
-      "userName": "Hemanth Kumar",
-      "profilePicture": "https://i.ibb.co/kB3PtMP/hemanth.png",
+      "userName": "Nithin Helmuth",
+      "profilePicture": "https://i.ibb.co/98xtP4G/6.png",
       "followStatus": "Unfollow",
       "posts": [
         {
-          "title": "Captured a Scenic Landscape",
-          "date": "1 day ago",
-          "category": "Drawing",
-          "readTime": "3 min",
-          "postImage": "https://i.ibb.co/9Y9VPQ3/drawing.jpg",
-          "postDrescription": "Spent the afternoon drawing a beautiful landscape. Added vibrant colors and focused on capturing the details. So proud of how it turned out!",
+          "title": "Published Research Paper in Renewable Energy",
+          "date": "2 days ago",
+          "category": "Renewable Energy",
+          "readTime": "7 min",
+          "postImage": "https://i.ibb.co/fMkWkzT/Screenshot-2024-01-22-at-09-19-39.png",
+          "postDrescription": "📚 Exciting News! Thrilled to share that my research paper in the field of renewable energy has been officially published! This journey has been a culmination of tireless efforts, countless hours in the lab, and an unwavering passion for sustainable solutions. Today, I want to take you behind the scenes of this scientific exploration and share the significance of the findings. ",
 
           "reaction": true,
-          "hashTag": ["#drawing", "#lovedrawing"]
+          "hashTags": ["#RenewableEnergyResearch", "#ScientificDiscovery", "#Sustainability"]
         }
       ]
     },
     {
-      "userName": "Md Touhidul Islam",
-      "profilePicture": "https://i.ibb.co/KssZZMV/405047049-2461069270731733-7398187336712067502-n.jpg",
-      "followStatus": "Unfollow",
-      "posts": [
-        {
-          "title": "completed half marathon",
-          "date": "1 day ago",
-          "category": "running",
-          "readTime": "3 min",
-          "postImage": "https://i.ibb.co/vDCFs28/image.jpg",
-          "postDrescription": "🏃‍♂️ Just crossed the finish line of my first half marathon! 🎉🥳🎉 What a fantastic way to wrap up the year with such a significant accomplishment. The journey to this moment must have been filled with challenges, dedication, and hard work, but I did it! 🏅",
-
-          "reaction": true,
-          "hashTag": ["#HalfMarathonFinisher", "#AchievementUnlocked"]
-        }
-      ]
-    },
-    {
-      "userName": "Prianka Joshi",
-      "profilePicture": "https://i.ibb.co/G2thGLK/Screenshot-2024-01-09-at-03-52-46.png",
-      "followStatus": "Unfollow",
-      "posts": [
-        {
-          "title": "Visited most lively city in the planet",
-          "date": "1 day ago",
-          "category": "traveling",
-          "readTime": "3 min",
-          "postImage": "https://i.ibb.co/G2thGLK/Screenshot-2024-01-09-at-03-52-46.png",
-          "postDrescription": "🎉✨ Celebrated the arrival of the New Year at the iconic Eiffel Tower! 🗼🥂 Grateful for the opportunity to start the year in such a magical place. The dazzling lights, the energetic atmosphere, and the company of amazing people made it an unforgettable experience. Here's to new beginnings, adventures, and the journey ahead! 🌟 Wishing everyone a year filled with joy, growth, and exciting discoveries. Cheers to 2023! 🎇🍾",
-
-          "reaction": true,
-          "hashTag": ["#NewYearEve", "#EiffelTowerCelebration"]
-        }
-      ]
-    },
-    {
-      "userName": "Soul Hudson",
-      "profilePicture": "https://i.ibb.co/s10QtXs/josue.png",
+      "userName": "Ghufran Imram",
+      "profilePicture": "https://i.ibb.co/x2N3CKR/5.png",
       "followStatus": "Unfollow",
       "posts": [
         {
@@ -100,7 +167,7 @@
           "date": "1 day ago",
           "category": "programming",
           "readTime": "3 min",
-          "postImage": "https://i.ibb.co/gF3R0bL/software.png",
+          "postImage": "https://i.ibb.co/jbNvjkg/Screenshot-2024-01-22-at-09-21-17.png",
           "postDrescription": "After months of coding and testing, I finally launched my first mobile app! It's a productivity tool to help users stay organized. Excited to see it in action!",
 
           "reaction": true,
@@ -109,81 +176,27 @@
       ]
     },
     {
-      "userName": "Mark Zuckerberg",
-      "profilePicture": "https://i.ibb.co/jbZ7F4M/mark.jpg",
+      "userName": " JessicaNabongo ",
+      "profilePicture": "https://images.pexels.com/photos/12065094/pexels-photo-12065094.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "followStatus": "Unfollow",
       "posts": [
         {
-          "title": "Started raising cattle",
+          "title": "The first woman to visit every country in the world",
           "date": "1 day ago",
-          "category": "Farming",
+          "category": "Travelling",
           "readTime": "3 min",
-          "postImage": "https://i.ibb.co/DtfsG19/markpost.jpg",
-          "postDrescription": "Started raising cattle at Ko'olau Ranch on Kauai, and my goal is to create some of the highest quality beef in the world. The cattle are wagyu and angus, and they'll grow up eating macadamia meal and drinking beer that we grow and produce here on the ranch. We want the whole process to be local and vertically integrated. Each cow eats 5,000-10,000 pounds of food each year, so that's a lot of acres of macadamia trees. My daughters help plant the mac trees and take care of our different animals. We're still early in the journey and it's fun improving on it every season. Of all my projects, this is the most delicious.",
+          "postImage": "https://as2.ftcdn.net/v2/jpg/02/03/75/89/1000_F_203758905_KhnNL01cybi3NZVLg3a1fPrPFi8Yggur.jpg",
+          "postDrescription": "Lessons from Visiting Every Country On October 6, Jessica Nabongo achieved a historic milestone, becoming the first documented black woman and the first Ugandan to travel to every sovereign nation. As her Kenya Airways flight touched down on Mahé Island in the Seychelles, Nabongo realized she had accomplished her goal and had set foot in every country in the world. Surrounded by family and friends, the 35-year-old shared her jubilation through a livestream to her 130,000 Instagram followers, drawing viewers from six continents. Nabongo, born in Detroit to Ugandan immigrants, publicly declared her ambitious goal in April 2018 when she had already visited 105 countries. Over the past two years, she spent about three weeks a month on the road, supporting her travels through her tour operator business, Jet Black, a Kickstarter campaign, and partnerships with select tourism boards. In an interview, Nabongo highlighted her mission to change the narrative about black people in the travel space. As she reflects on her journey, she encourages others not to let race hinder travel experiences, emphasizing that diversity enriches the global exploration narrative. Nabongo's journey wasn’t just about setting a record; it was a testament to resilience, determination, and the love of exploration. From solo trips to shared adventures with longtime friends, she averaged around four days in each of the last 50 countries, demonstrating a balance between speed and meaningful experiences. To verify her accomplishment in the tight-knit country-counting community, Nabongo turned to Nomad Mania, an organization with 5,000 members that confirms country visits through random verifications of 20 places. Her efforts have been officially recognized, contributing to the estimated 150 individuals who have visited every country. As she celebrated her achievement in the Seychelles, Nabongo shared insights gained from her journey, touching on topics such as getting into challenging countries like North Korea and Syria, staying organized with hyperorganization skills, discovering unexpected adventure destinations like Jordan and Namibia, and navigating the intricacies of travel in various cultural contexts. Through her remarkable journey, Nabongo aimed not only to check countries off her list but also to challenge stereotypes, inspire others, and foster a global community of travelers. As she closes this chapter of her life, her experiences serve as a guide for those who dream of exploring the world, offering lessons on resilience, cultural understanding, and the transformative power of travel. Congratulations, Jessica Nabongo, for rewriting the travel narrative and inspiring us all to explore the beauty and diversity of our world!",
 
           "reaction": true,
-          "hashTag": ["#farming", "#lovefarming"]
+          "hashTag": ["#achievement", "#lovetotravel"]
         }
       ]
     },
 
     {
-      "userName": "Hendrik Heuer",
-      "profilePicture": "https://i.ibb.co/gw3MHby/hendrickh.jpg",
-      "followStatus": "Unfollow",
-      "posts": [
-        {
-          "title": "I'll be co-leading the subproject 'We The (Social) Media: Social Media by and for Social Movements' with Andreas Breiter, Sebastian Haunss, and Stephanie Geise",
-          "date": "2 month ago",
-          "category": "Research",
-          "readTime": "1 min",
-          "postImage": "https://i.ibb.co/r5Zhfkn/hendrikpost1.png",
-          "postDrescription": "I'll be co-leading the subproject 'We The (Social) Media: Social Media by and for Social Movements' with Andreas Breiter, Sebastian Haunss, and Stephanie GeiseThe University of Bremen, in close collaboration with the U Bremen Research Alliance and other partners, is establishing a data competence center for the entire region. The Bundesministerium für Bildung und Forschung (Federal Ministry of Education and Research) is supporting the establishment of the center with over 3.5 million euros.",
-
-          "reaction": true,
-          "hashTag": ["#unibremen", "#ai"]
-        },
-        {
-          "userName": "Gabriela Molina León",
-          "profilePicture": "https://i.ibb.co/rxPRt6h/gabiprofile.jpg",
-          "followStatus": "Unfollow",
-          "posts": [
-            {
-              "title": "I just started my research stay at the Aviz research group",
-              "date": "8 month ago",
-              "category": "Research",
-              "readTime": "1 min",
-              "postImage": "https://i.ibb.co/zNNrLNZ/gabipost.png",
-              "postDrescription": "A bit late but I'm happy to report that I just started my research stay at the Aviz research group at Inria with the support of the DAAD German Academic Exchange Service. I will be working on multi-user interaction with wall displays, and look forward to the collaborations and life around hashtag#Paris in the next months ",
-
-              "reaction": true,
-              "hashTag": ["#phdlife", "#dataviz"]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "userName": "Gabriela Molina León",
-      "profilePicture": "https://i.ibb.co/rxPRt6h/gabiprofile.jpg",
-      "followStatus": "Unfollow",
-      "posts": [
-        {
-          "title": "I just started my research stay at the Aviz research group",
-          "date": "8 month ago",
-          "category": "Research",
-          "readTime": "1 min",
-          "postImage": "https://i.ibb.co/zNNrLNZ/gabipost.png",
-          "postDrescription": "A bit late but I'm happy to report that I just started my research stay at the Aviz research group at Inria with the support of the DAAD German Academic Exchange Service. I will be working on multi-user interaction with wall displays, and look forward to the collaborations and life around hashtag#Paris in the next months ",
-
-          "reaction": true,
-          "hashTag": ["#phdlife", "#dataviz"]
-        }
-      ]
-    },
-    {
-      "userName": "Priyan Vaithilingam",
-      "profilePicture": "https://i.ibb.co/mq6dTdT/priyanprofile.png",
+      "userName": "Zahra Roswitha",
+      "profilePicture": "https://i.ibb.co/1Qkdc43/9.png",
       "followStatus": "Unfollow",
       "posts": [
         {
@@ -200,8 +213,8 @@
       ]
     },
     {
-      "userName": "Rabiul Auwal",
-      "profilePicture": "https://i.ibb.co/5kjyc5F/rabiulprofile.jpg",
+      "userName": "Viktor Jockel",
+      "profilePicture": "https://i.ibb.co/DkYdGK6/download-10.jpg",
       "followStatus": "Unfollow",
       "posts": [
         {
@@ -255,7 +268,7 @@
       ]
     },
     {
-      "userName": "Akib Faruk",
+      "userName": "Akmal Regula",
       "profilePicture": "https://i.ibb.co/S5dgHpw/akib-profile.jpg",
       "followStatus": "Unfollow",
       "posts": [
